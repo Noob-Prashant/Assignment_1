@@ -732,9 +732,9 @@ public class Alphabets
 					System.out.print(" ");
 				}
 			}
-			// 
+			// Space
 						for(int j=0;j<4;j++)
-						{
+							{
 							if(i==j)
 							{
 								System.out.print(" ");
@@ -743,7 +743,7 @@ public class Alphabets
 							{
 								System.out.print(" ");
 							}
-						}
+							}
 			
 			//W
 			for(int j=0;j<n;j++)
@@ -757,9 +757,9 @@ public class Alphabets
 					System.out.print(" ");
 				}
 			}
-			// 
+			// space
 						for(int j=0;j<4;j++)
-						{
+							{
 							if(i==j)
 							{
 								System.out.print(" ");
@@ -768,7 +768,7 @@ public class Alphabets
 							{
 								System.out.print(" ");
 							}
-						}
+							}
 			
 			//X
 			for(int j=0;j<n;j++)
@@ -783,18 +783,18 @@ public class Alphabets
 				}
 				
 			}
-			// 
-			for(int j=0;j<4;j++)
-			{
-				if(i==j)
-				{
-					System.out.print(" ");
-				}
-				else
-				{
-					System.out.print(" ");
-				}
-			}
+			// space
+						for(int j=0;j<4;j++)
+						{
+							if(i==j)
+						{
+						System.out.print(" ");
+						}
+							else
+						{
+						System.out.print(" ");
+						}
+						}
 			
 			//Y
 			for(int j=0;j<n;j++)
